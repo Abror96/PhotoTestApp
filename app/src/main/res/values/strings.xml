@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestPhotoApp</string>
+    <string name="pictures">Картинки</string>
+    <string name="error_has_occurred">\"Произошла ошибка \"</string>
+    <string name="no_internet_connection">Нет интернет подключения</string>
+    <string name="try_again_text">Пожалуйста проверьте Ваше подключение и попробуйте снова</string>
+    <string name="no_internet">Нет интернет подключения. Проверьте Ваше подключение и попробуйте снова</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="signin">Войти</string>
+    <string name="required_field">Обязательное поле</string>
+    <string name="enter_valid_email">Введите валидный E-mail</string>
+    <string name="password_error_alert">Пароль должен состоять из 6 или более символов, содержать заглавные, строчные буквы и цифры.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_pictures"
+        android:title="@string/pictures"
+        android:icon="@drawable/ic_baseline_photo_24" />
+    <item android:id="@+id/nav_auth"
+        android:title="Авторизация"
+        android:icon="@drawable/ic_baseline_account_box_24" />
+</menu>
